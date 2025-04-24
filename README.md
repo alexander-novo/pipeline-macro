@@ -1,4 +1,4 @@
-# `pipeline-macro`
+# `pipelining-macro`
 
 The `pipe!` macro allows for nested function evaluations which are written left to right, rather than inside out (and often right to left) similarly to pipes in shells or the pipe operators in C++, Elixir, or F#.
 
